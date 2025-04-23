@@ -51,6 +51,5 @@ Missions Page
 ![img_2.png](img_2.png)
 Newsletter Page
 ![img_3.png](img_3.png)
-### Credits
-- Himal Bissessar
-
+### Credits (Link to GitHub Repo)
+- [Himal Bissessar](https://github.com/himalbissessar)
